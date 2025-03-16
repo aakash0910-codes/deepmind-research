@@ -1,3 +1,7 @@
+
+Today I will explore Deep MIND as this is my favourite organisation and I want to be in GSoC anyhow so I will work had and contribute, please guide me if anyone can we can work together
+😉😎 Actually this is research project and I dont know about AI and how machine learning is. I learn python daily so I will contribute. Thank you 😊😊👍🏼
+
 # DeepMind Research
 
 This repository contains implementations and illustrative code to accompany
